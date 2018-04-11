@@ -1,12 +1,6 @@
 # DeepReharm
-Generated results
 
-## SoundCloud links 
+These are generated results of DeepReharm project, which use deep learning to do reharmonization for a given melody. You can listen to sample results [here]() or on [soundCloud](https://soundcloud.com/user-800546960/).
 
-[generated-result1](https://soundcloud.com/user-800546960/a-combination-of-the-generated)
 
-[original melody](https://soundcloud.com/user-800546960/original-melody-slice)
 
-[generated-result2](https://soundcloud.com/user-800546960/generated-result)
-
-[original melody](https://soundcloud.com/user-800546960/origin-melody)
